@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SinghKaranpreet07
-- 👀 I’m interested in Btech CSE
+- 👀 I’m in Btech CSE 
 - 🌱 I’m currently learning Javascript from codedex
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
